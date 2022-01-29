@@ -1,0 +1,282 @@
+.banner {
+    background-color: #49F4FF;
+}
+
+
+.navbar-judul{
+    font-family: 'Cabin',sans-serif;
+    font-weight: 400;
+    size: 30px;
+    color: #080064;
+    margin-top: 49px;
+}
+.judul-banner{
+    font-family: 'Cabin'sans-serif;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #080064;
+margin-top: 58px;
+margin-left: 68px;
+}
+.sub-judul-banner{
+    font-family: 'Cabin',sans-serif;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 70px;
+color: #FD0431;
+}
+
+
+
+.image-banner-1 {
+    height: 309px;
+    width: 505px;
+    left: 898px;
+    top: 103px;
+    border-radius: 10px;
+margin-left: 640px;
+margin-top: -276px;    
+background-image: url(../uas\ web\ prgram/img/zzzzz.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.image-banner-2 {
+    height: 412px;
+width: 310px;
+left: 764px;
+top: 233px;
+border-radius: 10px;
+margin-left: 490px ;
+margin-top: -200px;
+background-image: url(../uas\ web\ prgram/img/xd.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.image-banner-3 {
+height: 270px;
+width: 308px;
+left: 214px;
+top: 412px;
+border-radius: 10px;
+margin-top: -190px;
+background-image: url(../uas\ web\ prgram/img/EEE.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.paket{
+    margin-top: 100px;
+    background-color: #49F4FF;
+    padding-bottom: 50px;
+}
+
+
+.judul-paket{
+font-family: 'Lora',sans-serif;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 70px;
+color: #FD0431;
+
+}
+
+.isi-paket{
+font-family: 'Lora',sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 300;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+color: blue;
+margin-top: 40px;
+margin-bottom: 50px;
+
+}
+
+.box-paket{
+    width: 350px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.merk-paket{
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+color: #1807D6;
+}
+
+.paket-didapat{
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+color: #F90707;
+}
+
+.btn-beli{
+width: 257px;
+border-radius: 40px;
+background-color: #F90707;
+color: white;
+}
+
+/* testimoni */
+.judul-testimoni{
+    font-family: 'Lora',sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color:#080064;
+    margin-top: 50px;
+    }
+    
+    .testimoni {
+    margin-top: 80px;
+    margin-left: 100px;
+    }
+    
+    .pak-jokowi{
+        margin-left: 100px;
+        margin-top: -200px;
+    }
+    
+    .isi-testimoni{
+    font-family: 'Lora',sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 450px;
+    margin-top: -220px;
+    }
+    
+    
+    .arrow-kiri{
+    height: 50.00000042940172px;
+    width: 60.00000051528207px;
+    left: 175.16448974609375px;
+    top: 3489.999755859375px;
+    border-radius: 0px;
+    margin-top: 100px;
+    }
+    
+    .arrow-kanan{
+        height: 50.00000042940172px;
+        width: 60.00000051528207px;
+        left: 175.16448974609375px;
+        top: 3489.999755859375px;
+        border-radius: 0px;
+        margin-left: 870px;
+        margin-top: -60px;
+    }
+    
+    .presiden{
+    font-family: 'Lora',sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    }
+    
+    /* about */
+    
+    .about{
+    background-color: #49F4FF;
+    margin-top: 50px;
+    padding-bottom: 62px;
+    }
+    .judul-about{
+    font-family: 'Lora',sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #1807D6;
+    margin-top: 55px;
+    }
+    
+    .isi-about{
+    font-family: 'Lora',sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 55px;
+    
+    }
+    
+    .penjelasan{
+    font-family: 'Lora',sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: blue;
+    }
+    
+    .kerja-sama{
+    font-family: 'Lora',sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 55px;
+    }
+    
+    .gofood{
+    font-family: 'Lora',sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: blue;
+    }
+    
+    
+    .footer{
+        background-color: #1807D6;
+        color: white;
+        font-family: 'Lora',sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
